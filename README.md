@@ -6,7 +6,7 @@
   * Java JDK 8 2.
 2. Documentar Lenguaje utilizado del analizador Léxico para realizar pruebas.
   ```java
-  package codigo; 
+  package codigo;
   import static codigo.Tokens.*;
   %% /*Declaraciones que vamos a utilizar*/
   %class Lexer
@@ -36,4 +36,4 @@
 ```
 3. Imagen de portada.
 
-  ![Imagen Promocional](imagen de previsualizacion.png)
+  ![Imagen Promocional](imagenPrevisualizacion.png)
